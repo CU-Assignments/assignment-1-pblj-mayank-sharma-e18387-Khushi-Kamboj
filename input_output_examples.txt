@@ -1,0 +1,84 @@
+✅ Problem 1: String Analysis
+🧾 Input:
+
+Enter a string: Hello World 2024!
+
+✅ Output:
+
+Vowels: 3
+Consonants: 7
+Digits: 4
+Special Characters: 3
+
+✅ Problem 2: Matrix Operations
+🧾 Input:
+
+Enter number of rows: 2
+Enter number of columns: 2
+
+Enter Matrix 1:
+1 2
+3 4
+
+Enter Matrix 2:
+5 6
+7 8
+
+✅ Output:
+
+Addition:
+6 8
+10 12
+
+Subtraction:
+-4 -4
+-4 -4
+
+Multiplication:
+19 22
+43 50
+
+✅ Problem 3: Basic Banking System (Menu-Driven)
+🧾 Input:
+
+Create Account:
+Name: John Doe
+Account Number: 12345
+Initial Balance: 1000
+
+📜 Then the menu appears:
+
+--- Banking Menu ---
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Enter your choice (1-4): 1
+Enter amount to deposit: 500
+Deposit successful! Current Balance: 1500.0
+
+--- Banking Menu ---
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Enter your choice (1-4): 2
+Enter amount to withdraw: 2000
+Error: Insufficient funds. Current Balance: 1500.0
+
+--- Banking Menu ---
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Enter your choice (1-4): 3
+Current Balance: 1500.0
+
+--- Banking Menu ---
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Enter your choice (1-4): 4
+Exiting... Thank you for banking with us!
+
